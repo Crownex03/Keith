@@ -55,7 +55,7 @@
     "pino": "^7.0.5",
     "pm2": "latest",
     "sequelize": "latest",
-    "sqlite3": "latest",
+    "sqlite3": "^5.1.7",
     "pg": "latest",
     "util": "latest",
     "wa-sticker-formatter": "latest"     
